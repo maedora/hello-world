@@ -1,2 +1,3 @@
 # hello-world
-git hub hello world exercise
+
+Hi! I'm Alena and I love cats.
